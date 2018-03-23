@@ -7,6 +7,7 @@ namespace PrvaVjezbaPIS
 {
     class Program
     {
+        //ovo je main metoda
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
